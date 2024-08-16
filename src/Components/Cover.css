@@ -1,0 +1,59 @@
+.cover img{
+    height: 800px;
+    width: 1800px;
+    margin-left: 30px;
+    border: 1px none;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+
+.coverbt {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+.coverbt button {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: none;
+    width: 130px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 1.2rem;
+    color: #333;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: background-color 0.3s ease;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.coverbt button:hover {
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.cover h1{
+    font-size: 60px;
+    text-align: center;
+    color: #0a2351;
+}
+
+.cover h3{
+    text-align: center;
+    background-color: #0a2351;
+    color: white;
+    width: 750px;
+    margin-left:30%;
+}
+
+.profit {
+    color: green;
+    font-weight: bold;
+}
+
+.loss {
+    color: red;
+    font-weight: bold;
+}

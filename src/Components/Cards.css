@@ -1,0 +1,37 @@
+.card{
+    height: 300px;
+    width: 500px;
+    border: 2px transparent;
+    border-radius: 8px;
+    box-shadow: 0.5px 0.5px 8px #808080;
+    margin: 20px;
+  }
+  
+  .cards{
+    margin-left: 100px;
+    display: flex;
+  }
+  
+.cd{
+  background-color: #E1EBEE;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+  .text1,.text2{
+    margin-left: 20px;
+  }
+  
+  .text1{
+    font-size: x-large;
+    width: 500px;
+    text-align: justify;
+    font-weight: bold;
+  }
+
+  .text2{
+    text-align: justify;
+    width: 500px;
+    font-size: large;
+  }
+  
