@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/News-Website-Using-ReactJS/static/css/main.5fd577d9.css",
+    "main.js": "/News-Website-Using-ReactJS/static/js/main.7e6d7049.js",
+    "static/media/pixelcut-export.png": "/News-Website-Using-ReactJS/static/media/pixelcut-export.359c2c88406b377b0f4b.png",
+    "static/media/behnam-norouzi-hScr17JG74Q-unsplash.jpg": "/News-Website-Using-ReactJS/static/media/behnam-norouzi-hScr17JG74Q-unsplash.b02e429cd59c458fb45d.jpg",
+    "static/media/pexels-davidmcbee-730564.jpg": "/News-Website-Using-ReactJS/static/media/pexels-davidmcbee-730564.d243f22ab793d091ae8b.jpg",
+    "static/media/14003675-hd_1280_720_60fps.mp4": "/News-Website-Using-ReactJS/static/media/14003675-hd_1280_720_60fps.8015e7c987766c0ecf34.mp4",
+    "static/media/Screenshot 2024-08-14 122818.png": "/News-Website-Using-ReactJS/static/media/Screenshot 2024-08-14 122818.17716c6c11e476c3018b.png",
+    "index.html": "/News-Website-Using-ReactJS/index.html",
+    "main.5fd577d9.css.map": "/News-Website-Using-ReactJS/static/css/main.5fd577d9.css.map",
+    "main.7e6d7049.js.map": "/News-Website-Using-ReactJS/static/js/main.7e6d7049.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fd577d9.css",
+    "static/js/main.7e6d7049.js"
+  ]
+}
